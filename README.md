@@ -91,8 +91,33 @@
 ### Security in the Wild for Low-Profile Activists
 
 ###### Overview
+- There's an app for that! To measure and track all your signals and activity.
+- Helps people keep track of their life, fun activities, etc.
+- Idea: Devices attached with brain. Non-invasive.
+- But, wait.. Malware! In the brain!
 
-###### Another
+###### Brain spyware
+- Any malicious app that extracts private information about the user.
+- Why/how does it work:
+  - A malicious app could intercept the digitized signal from the sensor to the signal processing app.
+  - Event Related Potentials (ERPs): Responses associated with specific sensory, cognitive, and motor events.
+
+###### Subliminal Brain Spyware experiment
+- During the game:
+  - 5 different stimuli for 7 seconds at a time.
+  - Different logos such as Starbucks, ...
+  - Measured ERPs
+
+- Brain signals can then be used to find out:
+  - Coffee preferences, but also
+  - Religious preferences,
+  - Political preferences, etc.
+  - Privately held thoughts can be captured(?)
+
+...
+
+###### Mitigation: BCI Anonymizer
+- Idea: Neural signals should be treated as PII
 
 
 ### Won't Somebody Please Think of the Journalists?
@@ -110,6 +135,18 @@
 
 
 ### Security for Vulnerable Populations
+
+###### Overview
+
+###### Another
+
+### Beyond Warm & Fuzzy: Ethics as a Value Prop
+
+###### Overview
+
+###### Another
+
+### 
 
 ###### Overview
 
