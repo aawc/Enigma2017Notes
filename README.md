@@ -23,12 +23,11 @@
 
 ### StreamAlert: A Serverless, Real-time Intrusion Detection Engine
 
-###### Overview
+#### Overview
 - Low cost
 - Role based Access Control - AWS IAM
-- _
 
-###### Writing Rules
+#### Writing Rules
 - User defined function that evaluates to false/true
 - Rule looks like this:
 ```python
@@ -41,7 +40,7 @@
 
 ### Neural and Behavioral Insights on Trust
 
-###### Overview
+##### Overview
 - More activity in Amygdala related to more distrust.
 - Don't make people think of things they don't do in offline situations
   - Example: Store credit card at checkout.
@@ -49,13 +48,13 @@
 - People hate ambiguity (no/little information about risk and reward) even more than uncertainity.
 - Activity in Amygdala doesn't clearly mean that people distrust online activity, but it may be related.
 
-###### Toy task
+##### Toy task
 - 100 chips in bag. Red or Blue. No other color.
 - If I draw Red, you win!
 - But I may not tell you how many Red chips there are.
 - Result: Finding out more data makes you more confident. (Makes sense.)
 
-###### Summary
+##### Summary
 - Don't focus on trust -- focus on uncertainity.
 - Favorable and unfavorable information has value for uninformed.
 - How people feel is critical in determining how people act.
@@ -63,7 +62,7 @@
 
 ### What Does the Brain Tell Us about Usable Security?
 
-###### Overview
+##### Overview
 - If asked to choose between dancing pigs and usable security, users would always choose dancing pigs. That's sad.
 - Most people don't notice the "Chrome cleanup tool" message popup.
 - We're bad at multi-tasking. Performance on all tasks suffers.
@@ -80,11 +79,11 @@
   - After video completes.
   - Waiting for download to complete (or start?)
 
-###### Takeaways
+##### Takeaways
 - Brain not good at handling interruptions.
 - Timing a security messages makes a marked improvement.
 
-###### Habituation
+##### Habituation
 - Observed in all animal life. Including human brain.
 - Each display of warning, brain pays less and less attention.
 - 40 real world wawrnings in FMRI scanner.
@@ -94,14 +93,14 @@
 - Notably better results.
 - Still led to bordom and ignoring warnings with polymorphic warnings but still higher than static warnings.
 
-###### Mobile experiment
+##### Mobile experiment
 - Install 3 apps from a category of apps every day.
 - Warning on install.
 - If they ignored warning, that was counted as disregard.
 - Chose 4 really bad warnings.
 - Polymorphic warnings (different warning format over 15 days) had better effect.
 
-###### Habituation carries over
+##### Habituation carries over
 - Dismissing one kind of notification (eg system notification on phone) can carry over to rare security events.
 - User may already be deeply habituated.
 - Design security messages to be visually distinct and/or different mode of dismissal.
@@ -112,19 +111,19 @@
 
 ### Security in the Wild for Low-Profile Activists
 
-###### Overview
+##### Overview
 - There's an app for that! To measure and track all your signals and activity.
 - Helps people keep track of their life, fun activities, etc.
 - Idea: Devices attached with brain. Non-invasive.
 - But, wait.. Malware! In the brain!
 
-###### Brain spyware
+##### Brain spyware
 - Any malicious app that extracts private information about the user.
 - Why/how does it work:
   - A malicious app could intercept the digitized signal from the sensor to the signal processing app.
   - Event Related Potentials (ERPs): Responses associated with specific sensory, cognitive, and motor events.
 
-###### Subliminal Brain Spyware experiment
+##### Subliminal Brain Spyware experiment
 - During the game:
   - 5 different stimuli for 7 seconds at a time.
   - Different logos such as Starbucks, ...
@@ -138,40 +137,62 @@
 
 ...
 
-###### Mitigation: BCI Anonymizer
+##### Mitigation: BCI Anonymizer
 - Idea: Neural signals should be treated as PII
 
 
 ### Won't Somebody Please Think of the Journalists?
 
-###### Overview
+#### Overview
+- When a journalist is kidnapped, you can help them financially but not erase the horror.
+- When they die, there's absolutely nothing you can do for them.
+- Technical attacks against journalists but not enough security community focus.
+- Motivated state actors have the resources to find vulnerabilities and deploy them as needed.
+- **Focus on security requirements for a journalist, and then**
+- **Adopt those products/ideas to people at large.**
 
-###### Another
+- Being a journalist used to be expensive: Camera, Printing press, reach, ...
+- That's not true anymore.
+- Everyone has a camera now, and a blog, or Medium.
 
+##### Change from focussing on keeping journalists safe to journalism safe
+- Everyone should have the ability to be safe about their communications.
+
+##### Questions
+- Computers today are garbage. We need better computers.
+- How do we distinguish between acts of journalism and acts of alternate reality.
+  - There are good journalists, there are bad journalists. And then, there are liars.
+- What should be focus on?
+  - Passwords are garbage. Phishing is easy.
+  - #1 priority is to make authentication work.
+  - Hardened or proven kernels.
+- Why not focus on anonymity?
+  - Not a lot of people die because of lack of anonymity.
+  - Plus, there are some good tools already for that.
 
 ### Why Philanthropy is Critical for Cybersecurity
 
-###### Overview
+##### Overview
 
-###### Another
+##### Another
 
 
 ### Security for Vulnerable Populations
 
-###### Overview
+##### Overview
 
-###### Another
+##### Another
 
 ## Trustworthy Computing
 
 ### Beyond Warm & Fuzzy: Ethics as a Value Prop
 
-###### Overview
+##### Overview
 
-###### Another
+##### Another
 
 ### A
 
-###### Overview
+##### Overview
 
-###### Another
+##### Another
