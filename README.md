@@ -7,8 +7,9 @@
 		- [Neural and Behavioral Insights on Trust](#neural-and-behavioral-insights-on-trust)
 		- [What Does the Brain Tell Us about Usable Security?](#what-does-the-brain-tell-us-about-usable-security)
 	- [Security Helping Society](#security-helping-society)
-		- [Security in the Wild for Low-Profile Activists](#security-in-the-wild-for-low-profile-activists)
+		- [Brains Can Be Hacked. Why Should You Care?](#brains-can-be-hacked-why-should-you-care)
 		- [Won't Somebody Please Think of the Journalists?](#wont-somebody-please-think-of-the-journalists)
+		- [Security in the Wild for Low-Profile Activists](#security-in-the-wild-for-low-profile-activists)
 		- [Why Philanthropy is Critical for Cybersecurity](#why-philanthropy-is-critical-for-cybersecurity)
 		- [Security for Vulnerable Populations](#security-for-vulnerable-populations)
 	- [Trustworthy Computing](#trustworthy-computing)
@@ -109,7 +110,7 @@
 
 ## Security Helping Society
 
-### Security in the Wild for Low-Profile Activists
+### Brains Can Be Hacked. Why Should You Care?
 
 ##### Overview
 - There's an app for that! To measure and track all your signals and activity.
@@ -155,10 +156,10 @@
 - That's not true anymore.
 - Everyone has a camera now, and a blog, or Medium.
 
-##### Change from focussing on keeping journalists safe to journalism safe
+#### Change from focussing on keeping journalists safe to journalism safe
 - Everyone should have the ability to be safe about their communications.
 
-##### Questions
+#### Questions
 - Computers today are garbage. We need better computers.
 - How do we distinguish between acts of journalism and acts of alternate reality.
   - There are good journalists, there are bad journalists. And then, there are liars.
@@ -170,29 +171,62 @@
   - Not a lot of people die because of lack of anonymity.
   - Plus, there are some good tools already for that.
 
+### Security in the Wild for Low-Profile Activists
+
+#### Overview
+- Don't just think about Snowden.
+- Write your password on a paper and put it in your wallet instead of using passwords.
+
+#### Story 1: Activist in Turkey
+- To meet him, send SMS on his phone.
+- I am going to interview him so this is public information anyway.
+- Civilian undercover police officer tries to eavesdrop.
+- My phone keeps me safe. Got arrested. Tweeted. Got friends' help.
+- Except one thing: I can't really have a girlfriend.
+- Family had lost son to political violence earlier.
+- He did not want mom to know about the girlfriend.
+
+#### Story 2: Information needs to be verifiable.
+- Does not hold for whistle blowers. But,
+- How can I prove that I took this picture at this place at this time.
+- How to fight with fake news and people wrongly calling correct information hoax.
+- Anonymity is useful but counter to this problem.
+- Reliable delivery of messages is part of security.
+
+#### Needs
+- Usable, reliable.
+- Allows wide reach.
+- Protect privacy and dignity of personal life.
+- Documentation: In all languages that it's going to be used.
+- Examples:
+  - How do security keys work? (TODO: aawc)
+    - http://www.explainthatstuff.com/how-security-tokens-work.html
+    - https://www.yubico.com/about/background/fido/
+    - https://www.facebook.com/notes/facebook-security/security-key-for-safer-logins-with-a-touch/10154125089265766
+
 ### Why Philanthropy is Critical for Cybersecurity
 
-##### Overview
+#### Overview
 
-##### Another
+#### Another
 
 
 ### Security for Vulnerable Populations
 
-##### Overview
+#### Overview
 
-##### Another
+#### Another
 
 ## Trustworthy Computing
 
 ### Beyond Warm & Fuzzy: Ethics as a Value Prop
 
-##### Overview
+#### Overview
 
-##### Another
+#### Another
 
 ### A
 
-##### Overview
+#### Overview
 
-##### Another
+#### Another
