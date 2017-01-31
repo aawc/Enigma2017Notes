@@ -1,3 +1,22 @@
+<!-- TOC depthFrom:1 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Engima 2017 Notes](#engima-2017-notes)
+	- [Behaviors and Detection](#behaviors-and-detection)
+		- [StreamAlert: A Serverless, Real-time Intrusion Detection Engine](#streamalert-a-serverless-real-time-intrusion-detection-engine)
+	- [Neuroscience and Security](#neuroscience-and-security)
+		- [Neural and Behavioral Insights on Trust](#neural-and-behavioral-insights-on-trust)
+		- [What Does the Brain Tell Us about Usable Security?](#what-does-the-brain-tell-us-about-usable-security)
+	- [Security Helping Society](#security-helping-society)
+		- [Security in the Wild for Low-Profile Activists](#security-in-the-wild-for-low-profile-activists)
+		- [Won't Somebody Please Think of the Journalists?](#wont-somebody-please-think-of-the-journalists)
+		- [Why Philanthropy is Critical for Cybersecurity](#why-philanthropy-is-critical-for-cybersecurity)
+		- [Security for Vulnerable Populations](#security-for-vulnerable-populations)
+	- [Trustworthy Computing](#trustworthy-computing)
+		- [Beyond Warm & Fuzzy: Ethics as a Value Prop](#beyond-warm-fuzzy-ethics-as-a-value-prop)
+		- [A](#a)
+
+<!-- /TOC -->
+
 # Engima 2017 Notes
 
 ## Behaviors and Detection
@@ -17,6 +36,8 @@
    def invalid_user (rec):
      return true
 ```
+
+## Neuroscience and Security
 
 ### Neural and Behavioral Insights on Trust
 
@@ -87,6 +108,7 @@
 
 *Not only think about the bad guys, but also think about the user who needs to respond to the security warnings, etc.*
 
+## Security Helping Society
 
 ### Security in the Wild for Low-Profile Activists
 
@@ -140,15 +162,16 @@
 
 ###### Another
 
+## Trustworthy Computing
+
 ### Beyond Warm & Fuzzy: Ethics as a Value Prop
 
 ###### Overview
 
 ###### Another
 
-### 
+### A
 
 ###### Overview
 
 ###### Another
-
