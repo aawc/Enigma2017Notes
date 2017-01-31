@@ -39,14 +39,79 @@
 - Favorable and unfavorable information has value for uninformed.
 - How people feel is critical in determining how people act.
 
+
 ### What Does the Brain Tell Us about Usable Security?
 
 ###### Overview
+- If asked to choose between dancing pigs and usable security, users would always choose dancing pigs. That's sad.
+- Most people don't notice the "Chrome cleanup tool" message popup.
+- We're bad at multi-tasking. Performance on all tasks suffers.
+- Security messages are displayed usually as a result of a security event without regard to user's current task. (Cue: Microsoft Update doalog)
+- Ran a study
+  - Have a baseline task.
+  - Then have a memory task (6 digit number to remember).
+  - Then added a task to install a Chrome extension that may have dangerous permissions.
+  - <Something I missed>
+- Results:
+  - High dual task message: Warning disregard: 22.9%
+  - Showing warning later: Warning disregard: 7.4%
+- Low DTI times:
+  - After video completes.
+  - Waiting for download to complete (or start?)
 
-###### Another
+###### Takeaways
+- Brain not good at handling interruptions.
+- Timing a security messages makes a marked improvement.
+
+###### Habituation
+- Observed in all animal life. Including human brain.
+- Each display of warning, brain pays less and less attention.
+- 40 real world wawrnings in FMRI scanner.
+- Dramatic drop in activity after second exposure to warning and drop off after successive exposures.
+- Also increase in boredom.
+- Then added animations to the warnings. Swirl, Jingle, ...
+- Notably better results.
+- Still led to bordom and ignoring warnings with polymorphic warnings but still higher than static warnings.
+
+###### Mobile experiment
+- Install 3 apps from a category of apps every day.
+- Warning on install.
+- If they ignored warning, that was counted as disregard.
+- Chose 4 really bad warnings.
+- Polymorphic warnings (different warning format over 15 days) had better effect.
+
+###### Habituation carries over
+- Dismissing one kind of notification (eg system notification on phone) can carry over to rare security events.
+- User may already be deeply habituated.
+- Design security messages to be visually distinct and/or different mode of dismissal.
+
+*Not only think about the bad guys, but also think about the user who needs to respond to the security warnings, etc.*
+
 
 ### Security in the Wild for Low-Profile Activists
 
 ###### Overview
 
 ###### Another
+
+
+### Won't Somebody Please Think of the Journalists?
+
+###### Overview
+
+###### Another
+
+
+### Why Philanthropy is Critical for Cybersecurity
+
+###### Overview
+
+###### Another
+
+
+### Security for Vulnerable Populations
+
+###### Overview
+
+###### Another
+
