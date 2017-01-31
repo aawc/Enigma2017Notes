@@ -21,8 +21,23 @@
 ### Neural and Behavioral Insights on Trust
 
 ###### Overview
+- More activity in Amygdala related to more distrust.
+- Don't make people think of things they don't do in offline situations
+  - Example: Store credit card at checkout.
+- Don't make people think about uncertainity (50/50 risk).
+- People hate ambiguity (no/little information about risk and reward) even more than uncertainity.
+- Activity in Amygdala doesn't clearly mean that people distrust online activity, but it may be related.
 
-###### Another
+###### Toy task
+- 100 chips in bag. Red or Blue. No other color.
+- If I draw Red, you win!
+- But I may not tell you how many Red chips there are.
+- Result: Finding out more data makes you more confident. (Makes sense.)
+
+###### Summary
+- Don't focus on trust -- focus on uncertainity.
+- Favorable and unfavorable information has value for uninformed.
+- How people feel is critical in determining how people act.
 
 ### What Does the Brain Tell Us about Usable Security?
 
